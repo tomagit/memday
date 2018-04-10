@@ -1,0 +1,45 @@
+body {
+	background-color: #DCDCDC;
+	opacity: 0.7;
+	font-family: Verdana, serif-sans;
+	text-align: center;
+	margin: 0;
+}
+.container {
+	display: flex;
+	background-image: url("https://www.visittheusa.com/sites/default/files/styles/hero_m_1300x700/public/images/hero_media_image/2016-10/HERO%201_shutterstock_361141436_Web72DPI.jpg?itok=qi8HMog6");
+	height: 500px;
+	flex-direction: column;
+	align-items: 
+
+}
+.top h1, p {
+	color: white;
+	margin-right: auto;
+	margin-left: auto;
+	font-weight: bolder;
+	width: 75%;
+	height: 60px;
+		
+}
+h1 {
+	font-size: 33px;
+
+}
+.days p {
+	color: black;
+}
+.top {
+	border: 2px solid white;
+	justify-content: center;
+	width: 100%;
+	display: block;
+	vertical-align: middle; 
+
+
+
+}
+.days {
+	margin-top: 400px;
+	justify-content: center;
+}
